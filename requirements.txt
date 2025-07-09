@@ -1,6 +1,12 @@
+## 001
 requests
 python-dotenv
 beautifulsoup4
 beautifulsoup4
 google-generativeai
 IPython
+
+## 002
+langchain-google-genai==2.1.7
+langchain-community==0.3.27
+getpass4==0.0.14.1
