@@ -1,10 +1,12 @@
+## Global requirements 
+python-dotenv==1.1.1
+IPython==9.4.0
+
 ## 001
-requests
-python-dotenv
-beautifulsoup4
-beautifulsoup4
-google-generativeai
-IPython
+requests==2.32.4
+beautifulsoup4==4.13.4
+google-generativeai==0.8.5
+
 
 ## 002
 langchain-google-genai==2.1.7
