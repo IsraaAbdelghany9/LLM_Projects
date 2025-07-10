@@ -13,7 +13,6 @@ This repository houses a collection of diverse projects leveraging Large Languag
     - Almost all taken from the documentation [langchain_google_generative_ai](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
 
 ## Helper scripts 
-
 ### 1. gemini_models_print.py
 
 you may want to change the model name that i am using, I had an error before because of the model name so added that script to help not to fall in that  again you can edit it to get the name you want like 
@@ -32,3 +31,13 @@ for model in models:
 ```
 
 That will save more time 
+
+## Note About Black and nbqa
+It is my first use so i wanted to add a short info about them if you are interested too
+
+- **🖤 Black** is a **Python code formatter** that automatically formats your code to follow best practices (PEP8), making it clean and consistent. Just run it, and it reformats the code without needing manual edits.
+
+- **📓 nbqa** lets you use **Black (and other tools)** directly on **Jupyter Notebooks** (`.ipynb`). It applies the formatting to the code cells while keeping everything else (like markdown and outputs) unchanged.
+
+✅ Use `black` for `.py` files
+✅ Use `nbqa black` for `.ipynb` files
