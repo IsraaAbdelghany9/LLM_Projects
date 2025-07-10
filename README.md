@@ -12,6 +12,10 @@ This repository houses a collection of diverse projects leveraging Large Languag
     - That notebook is to start with langchain and test its code how it is working with gemini 
     - Almost all taken from the documentation [langchain_google_generative_ai](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
 
+3. `003_LangChain_Tutorial_2`
+    - This notebook is to try the PromptTemplate from langchain_core 
+    - It can be used in all other projects it is easier to use if you have var in the prompt
+    
 ## Helper scripts 
 ### 1. gemini_models_print.py
 
