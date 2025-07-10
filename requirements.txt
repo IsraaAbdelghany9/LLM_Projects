@@ -1,6 +1,8 @@
 ## Global requirements 
 python-dotenv==1.1.1
 IPython==9.4.0
+black==25.1.0
+nbqa==1.9.1
 
 ## 001
 requests==2.32.4
