@@ -15,7 +15,11 @@ This repository houses a collection of diverse projects leveraging Large Languag
 3. `003_LangChain_Tutorial_2`
     - This notebook is to try the PromptTemplate from langchain_core 
     - It can be used in all other projects it is easier to use if you have var in the prompt
-    
+
+4. `004_LinkedIn_Scraping` 
+    - scraps LinkedIn profiles using URL and get info then summerize it using llm 
+> To get the api key of scrapin check : [Scrapin](https://app.scrapin.io/api)
+
 ## Helper scripts 
 ### 1. gemini_models_print.py
 
@@ -45,3 +49,5 @@ It is my first use so i wanted to add a short info about them if you are interes
 
 ✅ Use `black` for `.py` files
 ✅ Use `nbqa black` for `.ipynb` files
+
+
